@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-import { ButtonSize } from "../components/ButtonSize/ButtonSize";
+import { ButtonSize } from "../components/lib/ButtonSize/ButtonSize";
 
 export default {
   title: "Components-TP1/ButtonSize",
