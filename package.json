@@ -1,6 +1,6 @@
 {
   "name": "fxgcomponent_cocav001",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Component React Library",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -34,7 +34,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
-    "bugs": {
+  "bugs": {
     "url": "https://github.com/CoCav/fxgcomponent_cocav001.git"
   },
   "homepage": "https://github.com/CoCav/fxgcomponent_cocav001.git#readme",
