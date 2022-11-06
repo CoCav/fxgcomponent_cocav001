@@ -13,6 +13,14 @@
     "build-storybook": "build-storybook",
     "build-lib": "rollup -c"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoCav/fxgcomponent_cocav001.git"
+  },
+  "keywords": [
+    "React",
+    "Component"
+  ],
   "author": "Cocav001",
   "license": "MIT",
   "devDependencies": {
